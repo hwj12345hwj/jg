@@ -1,3 +1,6 @@
+![IMG_5172](https://github.com/user-attachments/assets/51dc0fb1-b23b-4203-bbb9-eba249a0ef3c)
+![IMG_5173](https://github.com/user-attachments/assets/4be2ae2a-7186-4786-b803-f5a08563ad1f)
+![IMG_5174](https://github.com/user-attachments/assets/05780636-174a-4596-af74-f14462ab6607)
 选择题
 
 1. 从1964年开始，出现了第三代计算机，称之为（  ）计算机。
