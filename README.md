@@ -1,6 +1,9 @@
+
+# jg![IMG_5171](https://github.com/user-attachments/assets/0858e17a-73e6-4370-9f3c-10910bf9927f)
 ![IMG_5172](https://github.com/user-attachments/assets/51dc0fb1-b23b-4203-bbb9-eba249a0ef3c)
 ![IMG_5173](https://github.com/user-attachments/assets/4be2ae2a-7186-4786-b803-f5a08563ad1f)
 ![IMG_5174](https://github.com/user-attachments/assets/05780636-174a-4596-af74-f14462ab6607)
+
 选择题
 
 1. 从1964年开始，出现了第三代计算机，称之为（  ）计算机。
@@ -140,4 +143,3 @@ A. 干扰箔条  B. 角反射器  C. 电离气悬体  D. 反雷达涂层
 
 25. 当前，随着军事高技术的发展，世界军事强国研发和装备了许多电子战飞机。其中，我国的歼16飞机就属于先进的电子战飞机。（  ）
 
-# jg![IMG_5171](https://github.com/user-attachments/assets/0858e17a-73e6-4370-9f3c-10910bf9927f)
